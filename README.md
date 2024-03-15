@@ -1,4 +1,4 @@
-# Data-Analysis---Capstone-Project
+# College Tuition, Diversity and Pay
 The college application process is one of the exciting but daunting processes that determines where high school graduates will spend the most important 4 years of their life. To facilitate this process and make it a little easier, we’ve compiled the visualizations below to help users gain easy access to detailed information of potential schools.
 
 To further assist the decision-making process of the college or university to attend, we decided to include the diversity makeup of counties. If users know what county their schools are located in, they can look up the county and that would bring up a bar chart showing the racial group and the percentage. This is to inform the users of what to expect if they decide to go to the school and live in the area since we noticed that some schools can be more diverse than their surrounding area.
